@@ -1,0 +1,10 @@
+target/
+*.iml
+.idea/
+.vscode/
+*.class
+*.log
+*.swp
+*.swo
+*~
+.DS_Store

@@ -1,0 +1,4 @@
+# This file prevents duplicate target directories when running cargo directly
+# It matches the --target-dir argument passed by the rust-maven-plugin
+[build]
+target-dir = "../../../../target/rust-maven-plugin/jni-example"

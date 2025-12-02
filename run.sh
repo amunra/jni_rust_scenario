@@ -1,0 +1,1 @@
+java -cp "target/jni-rust-scenario-1.0.0-SNAPSHOT.jar:$HOME/.m2/repository/org/questdb/jar-jni/1.2.0/jar-jni-1.2.0.jar" jni.rust.scenario.Main
